@@ -1,0 +1,27 @@
+{
+  "name": "matthew",
+  "description": "a open-source discord manager bot written in js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylordevs/Matthew.git"
+  },
+  "keywords": [
+    "matthew"
+  ],
+  "author": "taylordevs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylordevs/Matthew/issues"
+  },
+  "homepage": "https://github.com/taylordevs/Matthew#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
