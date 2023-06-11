@@ -8,6 +8,9 @@
 
 A cross-platform, open-source, and easy to use Discord bot written in Javascript using the [Discord.js](https://discord.js.org/#/) library.
 
+## Sponsor this project
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/taylordevs)
+
 ## Features
 - [ ] **Customizable** - Matthew is fully customizable. You can change the prefix, the language, and much more.
 - [ ] **Easy to use** - Matthew is easy to use. You can use the `help` command to get a list of commands.
