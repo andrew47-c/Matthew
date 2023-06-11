@@ -1,7 +1,7 @@
 class Initialization {
     constructor() {
         require('dotenv').config({
-            path: __dirname + '/./../../.env'
+            path: __dirname + '/./../../config/.env'
         });
     }
 }

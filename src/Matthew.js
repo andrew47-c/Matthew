@@ -11,7 +11,7 @@ class Matthew {
     constructor(token) {
         this.#token = token;
         this.#login(token).then(() => {
-
+            console.log('Matthew is ready!')
         })
     }
 
